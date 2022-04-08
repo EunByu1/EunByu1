@@ -1,5 +1,5 @@
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="430">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbyul0805@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbyul&show_icons=true&theme=radical)
 
 <!--
 **EunByu1/EunByu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
