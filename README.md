@@ -18,12 +18,14 @@
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
+<br>
 
 ## 🤔 앞으로 공부할 것들 
 *  Geolocation API로  위도와 경도 출력 및 날씨, 온도 정보를 출력하는 서비스 클론 코딩 → 확장 구현 
 *  SQL을 사용한 데이터 전처리, 분석 경험 
-*  Deep Learning, Machine Learning 공부 → (추후) 프로젝트<br>
+*  Deep Learning, Machine Learning 공부 → (추후) 프로젝트  
+<br>
 
 ## 📋 Education  
 <b>Ⅰ. 동아대 AI학과(2021 ~ 2024)</b> 
@@ -39,7 +41,14 @@
 - 동아대 IT 취업 동아리 머신러닝 스터디(2022.05.05 ~ 진행중)
   - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
  
-- 동아대 IT 취업 도아리 Backend + DevOps 스터디(2022.05.07 ~ 진행중)<br>
+- 동아대 IT 취업 도아리 Backend + DevOps 스터디(2022.05.07 ~ 진행중)  
+<br>
 
 ## 🗂️ Projects 
-### AI 환경 로봇 (Green AI)
+### AI 환경 로봇 (Green AI)  
+- Gitlab : https://gitlab.com/greenai5
+- 개발 언어 & 라이브러리 : Python(Flask), Raspberry Pi, PyTorch, MySQL …
+- 내용 
+  - 파이썬 Flask, MySQL를 기반으로 웹 기반의 대시보드 개발
+  - 딥러닝 기술을 기반으로 최적의 환경 정화 제어 기술 구현
+  - 센서 데이터 모니터링 및 로봇을 제어하는 앱 개발
