@@ -1,4 +1,4 @@
-# 하은지 (eun ji Ha)
+# 하은지 _ Ha eun ji 
 🌺 github : https://github.com/EunByu1  
 🌺 e-mail : eunbyul0805@gmail.com  
 🌺 blog   : https://it-ss.tistory.com/
