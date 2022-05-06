@@ -6,14 +6,13 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
 ## 🔭 Summary 
-> 인공지능 엔지니어를 희망하고 있으며, 현재 인공지능 외 다양한 언어를 접하기 위해 공부 중에 있습니다.
+> 인공지능 엔지니어를 희망하고 있으며, 현재 인공지능 외 다양한 언어를 접하기 위해 공부 중에 있습니다.  
 > I am hoping to become an AI engineer, and I am currently working to support languages other than AI.
 <br>   
 
 ## 🌱 Skill  
 <b>Tech</b>  
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
