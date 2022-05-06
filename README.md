@@ -1,12 +1,12 @@
 # 하은지 
-* github : https://github.com/EunByu1
-* e-mail : eunbyul0805@gmail.com
-* blog   : https://it-ss.tistory.com/
+🌺 github : https://github.com/EunByu1
+🌺 e-mail : eunbyul0805@gmail.com
+🌺 blog   : https://it-ss.tistory.com/
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
 
-**EunByu1/EunByu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EunByu1/EunByu1** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
