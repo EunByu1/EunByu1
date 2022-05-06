@@ -8,8 +8,8 @@
 ## Summary 
 > 인공지능 엔지니어를 희망하고 있으며, 현재 인공지능 외 다양한 언어를 접하기 위해 공부 중에 있습니다.
 
-## 💻 Skill
-<b>Tech</b>
+## 💻 Skill  
+<b>Tech</b>  
 : Skills that have been dealt with more than once  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
