@@ -10,8 +10,8 @@
 
 ## 💻 Skill
 <b>Tech</b>
-: Skills that have been dealt with more than once
-<img src="https://img.shields.io/badge/https://img.shields.io/badge/python-3776ABstyle=for-the-badge&logo=Python&logoColor=white">
+: Skills that have been dealt with more than once  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
