@@ -1,7 +1,5 @@
 # 하은지_Ha eunji
 - github : https://github.com/EunByu1  
-- e-mail : eunbyul0805@gmail.com  
-- blog   : https://it-ss.tistory.com/
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
