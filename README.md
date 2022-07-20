@@ -31,10 +31,6 @@
 <br>  
 <b> Ⅱ. Study </b>  
   
-  
-- 동아대 IT 취업 동아리 데이터 분석 스터디(2022.04.10 ~ 진행중)
-  - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
-
 - 동아대 IT 취업 동아리 Algorithm 스터디(2022.05.01 ~ 진행중)
   - [Baekjoon Online Judge](https://www.acmicpc.net/)
 
