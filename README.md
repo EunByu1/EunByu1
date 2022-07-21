@@ -1,5 +1,5 @@
 # 하은지_Ha eunji         
-- github : https://github.com/EunByu1  
+- github : https://github.com/EunByu1   
 - blog   : https://velog.io/@yahweh     
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
