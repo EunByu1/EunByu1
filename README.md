@@ -10,7 +10,7 @@
 - I am an ordinary college student who dreams of the future <br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
- </p>
+ </p><br>
 
 
  ## 🌸 Education & Project
@@ -25,7 +25,7 @@
 <p align ="left">
 - github : https://github.com/EunByu1  <Br
 - blog   : https://velog.io/@yahweh   
-</p>
+</p><br>
 
 
 ## 🌸 Skill  
