@@ -27,5 +27,4 @@
 
 <br><br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={ejha2002})](https://solved.ac/{ejha2002})
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
