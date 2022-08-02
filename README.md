@@ -3,19 +3,22 @@
  
  
 ## 🌼 Who Am I
+<br>
+<br>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
-<p align="left">
-- I am an ordinary college student who dreams of the future
-- My major is Artificial intelligence
-- like to examine knowledg
 
+<p align="left">
+- I am an ordinary college student who dreams of the future<br>
+- My major is Artificial intelligence<br>
+- like to examine knowledg
+ </p>
 
 
  ## 🌼 Experience
 - github : https://github.com/EunByu1  
  <br> 
 - blog   : https://velog.io/@yahweh     
- </p>
+
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
