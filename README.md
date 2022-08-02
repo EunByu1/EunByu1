@@ -2,15 +2,14 @@
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
 # Information
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
+<div align="left">
 - github : https://github.com/EunByu1   
 - blog   : https://velog.io/@yahweh     
+ </div>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
-
-## 🔭 Summary 
-> 인공지능 엔지니어를 희망하고 있으며, 현재 인공지능 외 다양한 언어를 접하기 위해 공부 중에 있습니다.  
-> I am hoping to become an AI engineer, and I am currently working to support languages other than AI.
-<br>   
 
 ## 🌱 Skill  
 <b>Tech</b>  
@@ -27,4 +26,4 @@
 
 <br><br>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
+
