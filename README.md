@@ -1,9 +1,11 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
- 
+<br>
+
 # 🌸 Who Am I 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
+
 <p align="left">
 - I am an ordinary college student who dreams of the future <br>
 - My major is Artificial intelligence<br>
@@ -18,8 +20,7 @@
 - Professor of Dong-A University - Development of design tools
 - Hanium - AI Environment Robot 
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
 ## Information
 <p align ="left">
 - github : https://github.com/EunByu1  <Br
