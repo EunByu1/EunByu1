@@ -4,7 +4,7 @@
 <br>
 
 # 🌸 Who Am I 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="200">
 
 <p align="left">
 - I am an ordinary college student who dreams of the future <br>
