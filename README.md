@@ -23,11 +23,11 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
 
 <br>
+
 ## 🌸 Information
-<p align ="left">
-- github : https://github.com/EunByu1  <Br
+- github : https://github.com/EunByu1  <Br>
 - blog   : https://velog.io/@yahweh   
-</p><br>
+
 
 
 ## 🌸 Skill  
