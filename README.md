@@ -1,9 +1,9 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
 <br>
 
-# 🌸 Who Am I 
+## 🌸 Who Am I 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
 
 <p align="left">
