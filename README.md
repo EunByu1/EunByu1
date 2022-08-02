@@ -4,7 +4,7 @@
 <br>
 
 # 🌸 Who Am I 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="200">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
 
 <p align="left">
 - I am an ordinary college student who dreams of the future <br>
@@ -20,7 +20,7 @@
 - Professor of Dong-A University - Development of design tools
 - Hanium - AI Environment Robot 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="200">
 ## Information
 <p align ="left">
 - github : https://github.com/EunByu1  <Br
