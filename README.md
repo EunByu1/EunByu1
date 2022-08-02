@@ -18,7 +18,7 @@
 - Professor of Dong-A University - Development of design tools
 - Hanium - AI Environment Robot 
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="200">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="300">
 
 ## Information
 <p align ="left">
