@@ -26,4 +26,4 @@
  </div>
 
 <br><br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo_y" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eunbyul" height="165">
