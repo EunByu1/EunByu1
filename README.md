@@ -2,13 +2,15 @@
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
  
- 
-# Who Am I
-- f
-# Information
+## 🌼 Who Am I
+- I am an ordinary college student who dreams of the future
+- My major is Artificial intelligence
+- like to examine knowledg
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
 <p align="left">
+
+ ## 🌼 Experience
 - github : https://github.com/EunByu1  
  <br> 
 - blog   : https://velog.io/@yahweh     
