@@ -3,12 +3,13 @@
  
  
 ## 🌼 Who Am I
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
+<p align="left">
 - I am an ordinary college student who dreams of the future
 - My major is Artificial intelligence
 - like to examine knowledg
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
-<p align="left">
+
 
  ## 🌼 Experience
 - github : https://github.com/EunByu1  
