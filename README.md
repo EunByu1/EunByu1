@@ -5,9 +5,9 @@
 ## 🌼 Who Am I
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
 <p align="left">
-- I am an ordinary college student who dreams of the future<br>
+- I am an ordinary college student who dreams of the future 🔭<br>
 - My major is Artificial intelligence<br>
-- like to examine knowledg
+- I like to examine knowledg 🔬
  </p>
 
 
