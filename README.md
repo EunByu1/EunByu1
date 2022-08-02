@@ -2,7 +2,7 @@
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
  
-# 🌼 Who Am I 🌼
+# 🌸 Who Am I 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
 <p align="left">
 - I am an ordinary college student who dreams of the future <br>
@@ -11,13 +11,21 @@
  </p>
 
 
- ## 🌼 Experience
-- github : https://github.com/EunByu1  
- <br> 
-- blog   : https://velog.io/@yahweh     
+ ## 🌸 Education & Project
+- Dong-A University IT Job Club - Machine learning Study(2022.04.11 ~ )
+- Dong-A University IT Job Club - Algorithm Study(2022.07.26 ~ )
+- Dong-A University IT Job Club - Front End Study(2022.07.19 ~ )
+- Professor of Dong-A University - Development of design tools
+- Hanium - AI Environment Robot 
+
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="450">
+
+## Information
+<p align ="left">
+- github : https://github.com/EunByu1  <Br
+- blog   : https://velog.io/@yahweh    </p>
 
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
 ## 🌱 Skill  
 <b>Tech</b>  
