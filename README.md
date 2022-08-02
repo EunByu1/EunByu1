@@ -4,15 +4,13 @@
 <br>
 
 ## 🌸 Who Am I 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
-
 <p align="left">
 - I am an ordinary college student who dreams of the future <br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
  </p><br>
 
-
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
  ## 🌸 Education & Project
 - Dong-A University IT Job Club - Machine learning Study(2022.04.11 ~ )
 - Dong-A University IT Job Club - Algorithm Study(2022.07.26 ~ )
@@ -28,8 +26,7 @@
 - github : https://github.com/EunByu1  <Br>
 - blog   : https://velog.io/@yahweh   
 
-
-
+<Br>
 ## 🌸 Skill  
 <b>Tech</b>  
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
