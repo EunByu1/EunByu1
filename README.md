@@ -4,10 +4,11 @@
 # Information
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
-<pre align="left">
-- github : https://github.com/EunByu1   
+<p align="left">
+- github : https://github.com/EunByu1  
+ <br> 
 - blog   : https://velog.io/@yahweh     
- </pre>
+ </p>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
 
