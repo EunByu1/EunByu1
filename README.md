@@ -18,14 +18,15 @@
 - Professor of Dong-A University - Development of design tools
 - Hanium - AI Environment Robot 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
 
 <br>
 
 ## 🌸 Information
 - github : https://github.com/EunByu1  <Br>
 - blog   : https://velog.io/@yahweh   
-
+ 
+ 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
 <Br>
 ## 🌸 Skill  
 <b>Tech</b>  
