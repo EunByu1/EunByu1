@@ -1,7 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
-## Information
+# Information
 - github : https://github.com/EunByu1   
 - blog   : https://velog.io/@yahweh     
 
@@ -23,3 +23,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 <br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunbyul&show_icons=true&theme=radical)
