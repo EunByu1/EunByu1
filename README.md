@@ -12,7 +12,7 @@
 - I like to examine knowledg 🔬
  </p>
 
-<br>
+
  ## 🌸 Education & Project
 - Dong-A University IT Job Club - Machine learning Study(2022.04.11 ~ )
 - Dong-A University IT Job Club - Algorithm Study(2022.07.26 ~ )
@@ -25,9 +25,9 @@
 <p align ="left">
 - github : https://github.com/EunByu1  <Br
 - blog   : https://velog.io/@yahweh   
-                                           </p>
+</p>
 
-<br>
+
 ## 🌸 Skill  
 <b>Tech</b>  
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
