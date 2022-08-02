@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=150&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
  
@@ -18,12 +18,13 @@
 - Professor of Dong-A University - Development of design tools
 - Hanium - AI Environment Robot 
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="450">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="3000">
 
 ## Information
 <p align ="left">
 - github : https://github.com/EunByu1  <Br
-- blog   : https://velog.io/@yahweh    </p>
+- blog   : https://velog.io/@yahweh   
+                                           </p>
 
 
 
