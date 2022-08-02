@@ -27,4 +27,4 @@
 
 <br><br>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunbyul0805@gmail.com">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002">
