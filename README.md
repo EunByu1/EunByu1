@@ -3,6 +3,7 @@
 
 ## 🌸 Who Am I 
 <p align="left">
+
 - I am an ordinary college student who dreams of the future <br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
