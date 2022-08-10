@@ -26,9 +26,9 @@
 - github : https://github.com/EunByu1  <Br>
 - blog   : https://velog.io/@yahweh   
  
-<p>
+
+
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
-</p>
 <Br>
 
  
@@ -42,7 +42,6 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <br><br>
 
 
