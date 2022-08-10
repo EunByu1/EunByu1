@@ -30,7 +30,6 @@
 <img align='right' src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
 <Br>
 
-
 ## 🌸 Skill  
 <b>Tech</b>  
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
