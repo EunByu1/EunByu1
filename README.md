@@ -26,9 +26,12 @@
 - github : https://github.com/EunByu1  <Br>
 - blog   : https://velog.io/@yahweh   
  
+<p>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
+</p>
 <Br>
 
+ 
 ## 🌸 Skill  
 <b>Tech</b>  
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
