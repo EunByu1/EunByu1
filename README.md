@@ -28,7 +28,7 @@
  
 
 
-<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=ejha2002" width="340">
+<img align='right' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ejha2002" width="340">
 <Br>
 
  
