@@ -34,7 +34,7 @@
  
 ## 🌸 Skill  
 <b>Tech</b>  
-&nbsp;&nbsp; : vailable skills<br>  
+&nbsp;&nbsp; : vailable skills & the art one has dealt with<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
