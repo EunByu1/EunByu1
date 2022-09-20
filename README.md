@@ -1,7 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
-## 🌸 Who Am I  
+## 🌸 Who Am I 
 <p align="left">
 
 - I am an ordinary college student who dreams of the future <br>
