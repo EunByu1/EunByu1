@@ -2,7 +2,7 @@
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
 ## 🌸 Who Am I 
-<p align="left">
+<p align="left"> 
 
 - I am an ordinary college student who dreams of the future <br>
 - My major is Artificial intelligence<br>
