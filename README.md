@@ -2,7 +2,6 @@
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
  
 
-
 ## 🌸 Who Am I 
 <p align="left">  
 
