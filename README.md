@@ -1,14 +1,14 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
-    
+
        
 ## 🌸 Who Am I 
-<p align="left">  
+<p align="left"> 
 
 - I am a student who wants NLP and obot AI as a career path<br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
- </p><br>
+ </p><br> 
 
 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
