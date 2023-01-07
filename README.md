@@ -1,6 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
 
+
        
 ## 🌸 Who Am I 
 <p align="left"> 
@@ -11,7 +12,7 @@
  </p><br> 
 
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
+<img align="right" src="" alt="Metrics" width="362">
 
 
  ## 🌸 Education & Project
