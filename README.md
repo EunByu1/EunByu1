@@ -12,7 +12,7 @@
  </p><br> 
 
 
-<img align="right" src="" alt="Metrics" width="362">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
 
 
  ## 🌸 Education & Project
