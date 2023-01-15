@@ -9,7 +9,7 @@
 - I am a student who wants NLP and obot AI as a career path<br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
- </p><br> 
+ </p><br>  
 
 
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
