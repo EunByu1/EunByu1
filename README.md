@@ -19,7 +19,6 @@
 - Dong-A University IT Job Club - Machine learning Study(2022.04.11~)
 - Dong-A University IT Job Club - Algorithm Study(2022.07.26~)
 - Dong-A University IT Job Club - Front End Study(2022.07.19~)
-- Professor of Dong-A University - Development of design tools
 - Hanium - AI Environment Robot  
 <br>
 
