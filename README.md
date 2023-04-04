@@ -22,7 +22,8 @@
 - Hanium - AI Environment Robot [FINISH | Silver award]
 <br>
 
-- Dong-A University Professor Study - HandsOn Machine Learning [2nd Edition] (2023.03.16 ~)
+- Dong-A University Professor Study - HandsOn Machine Learning 
+<br>[2nd Edition] (2023.03.16 ~)
 - Mini project - Recommendation Algorithms(2023.03.23 ~)
 
 <br>
