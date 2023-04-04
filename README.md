@@ -16,14 +16,14 @@
     
 
  ## 🌸 Education & Project
-- Dong-A University IT Job Club - Machine learning Study(2022.04.11~)
-- Dong-A University IT Job Club - Algorithm Study(2022.07.26~)
-- Dong-A University IT Job Club - Front End Study(2022.07.19~)
-- Hanium - AI Environment Robot  
+- Dong-A University IT Job Club - Machine learning Study(2022.04.11~2022.08)
+- Dong-A University IT Job Club - Algorithm Study(2022.07.26~2022.08)
+- Dong-A University IT Job Club - Front End Study(2022.07.19~2022.08)
+- Hanium - AI Environment Robot [FINISH | Silver award]
 <br>
 
-- Dong-A University IT Job Club - Linux Study (23.01.13~)
-
+- Dong-A University Professor Study - HandsOn Machine Learning [2nd Edition] (2023.03.16 ~)
+- Mini project - Recommendation Algorithms(2023.03.23 ~)
 
 <br>
 
