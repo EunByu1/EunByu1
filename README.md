@@ -1,6 +1,6 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
-        
+           
      
               
 ## 🌸 Who Am I 
@@ -48,4 +48,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <br>
 
-<br><br>
+<br>
