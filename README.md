@@ -23,8 +23,8 @@
 <br>
 
 - Dong-A University Professor Study - HandsOn Machine Learning 
-<br>[2nd Edition] (2023.03.16 ~)
-- Mini project - Recommendation Algorithms(2023.03.23 ~)
+<br>[2nd Edition] (2023.03.16~2023.05.31)
+- Mini project - Recommendation Algorithms(2023.03.23~2023.06.15)
 
 <br>
 
