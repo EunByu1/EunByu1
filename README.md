@@ -30,7 +30,9 @@
 
 ## 🌸 Information
 - github : https://github.com/EunByu1  <Br>
-- blog   : https://velog.io/@yahweh [stopping] 
+- blog_2[study] : https://eunjiblog.tistory.com <br>
+- blog_1[curious] : https://velog.io/@yahweh <br>
+
  
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
