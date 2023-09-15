@@ -19,7 +19,7 @@
 - Dong-A University IT Job Club - Machine learning Study(2022.04.11~2022.08)
 - Dong-A University IT Job Club - Algorithm Study(2022.07.26~2022.08)
 - Dong-A University IT Job Club - Front End Study(2022.07.19~2022.08)
-- Hanium - AI Environment Robot [FINISH | Silver award] (2022.04.12~2022.11.30)
+- Hanium - AI Environment Robot [FINISH | 🏆 Silver award] (2022.04.12~2022.11.30)
 
 <br>
 
