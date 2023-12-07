@@ -29,7 +29,7 @@
 - [GDSC] 2nd term(2023.09.07~)
 - Dong-A University DevDay - AI voice recognition-based communication platform <br>
   [FINISH | 🏆 Encouragement Award] (2023.10.24~2023.12.06)
-- <br>
+<br>
 
 ## 🌸 Information
 - github : https://github.com/EunByu1  <Br>
