@@ -19,7 +19,7 @@
 - Dong-A University IT Job Club - Machine learning Study(2022.04.11~2022.08)
 - Dong-A University IT Job Club - Algorithm Study(2022.07.26~2022.08)
 - Dong-A University IT Job Club - Front End Study(2022.07.19~2022.08)
-- Hanium - [AI Environment Robot](https://github.com/EunByu1/Web_Project/tree/main/GreenAI) [FINISH | 🏆 Silver award] (2022.04.12~2022.11.30)
+- Hanium - [AI Environment Robot](https://github.com/EunByu1/Web_Project/tree/main/GreenAI) [FINISH | 🏆 Silver award] (2022.04.12~2022.11.30)<br>
            → Source code management in gitlab provided by the competition<br>
              &nbsp;&nbsp;&nbsp;&nbsp; (3D model, web, app etc..)
 
