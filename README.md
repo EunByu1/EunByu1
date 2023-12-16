@@ -19,16 +19,14 @@
 - Dong-A University IT Job Club - Machine learning Study(2022.04.11~2022.08)
 - Dong-A University IT Job Club - Algorithm Study(2022.07.26~2022.08)
 - Dong-A University IT Job Club - Front End Study(2022.07.19~2022.08)
-- Hanium - [AI Environment Robot](https://github.com/EunByu1/Web_Project/tree/main/GreenAI) <br>
-  [FINISH | 🏆 Silver award] (2022.04.12~2022.11.30) <br>
-           → Source code management in gitlab provided by the competition<br>
-             &nbsp;&nbsp;&nbsp;&nbsp; (3D model, web, app etc..)
+- Hanium - [AI Environment Robot](https://github.com/EunByu1/Web_Project/tree/main/GreenAI) [FINISH | 🏆 Silver award] (2022.04.12~2022.11.30) <br>
+
 
 <br>
 
 - Dong-A University Professor Study - HandsOn Machine Learning 
 <br>[2nd Edition] (2023.03.16~2023.05.31)
-- Mini project - Recommendation Algorithms(2023.03.23~2023.06.15)
+- Mini project - Recommendation Algorithms (2023.03.23~2023.06.15)
 - [GDSC] 2nd term_Core Member (2023.09.07~)
 - GDSC DAU Headington - [Busan University Plogging Competition App](https://github.com/EunByu1/BalanceTeam?tab=readme-ov-file) <br>
   [FINISH | 🏆 2nd place] (2023.11.06~2023.11.10)
