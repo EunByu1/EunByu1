@@ -27,7 +27,9 @@
 <br>[2nd Edition] (2023.03.16~2023.05.31)
 - Mini project - Recommendation Algorithms(2023.03.23~2023.06.15)
 - [GDSC] 2nd term(2023.09.07~)
-- Dong-A University DevDay - AI voice recognition-based communication platform <br>
+- GDSC DAU Headington - [Busan University Plogging Competition App](https://github.com/EunByu1/BalanceTeam?tab=readme-ov-file) <br>
+  [FINISH | 🏆 2nd place] (2023.11.06~2023.11.10)
+- Dong-A University DevDay - [AI voice recognition-based communication platform](https://github.com/Ai-Communication-platform) <br>
   [FINISH | 🏆 Encouragement Award] (2023.10.24~2023.12.06)
 <br>
 
