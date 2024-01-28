@@ -34,6 +34,10 @@
   [FINISH | 🏆 Encouragement Award] (2023.10.24~2023.12.06)
 <br>
 
+
+- [GDSC] [Solchalthon together](https://festa.io/events/4628) [FINISH | 🏆 Grand Prix] (2024.01.18~2024.01.27) 
+<br>
+
 ## 🌸 Information
 - github : https://github.com/EunByu1  <Br>
 - blog_2[study] : https://eunjiblog.tistory.com <br>
