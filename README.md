@@ -35,7 +35,7 @@
 <br>
 
 
-- [GDSC] [Solchalthon together](https://festa.io/events/4628): Idea contest [FINISH | 🏆 Grand Prix] (2024.01.18~2024.01.27) 
+- [GDSC Solchalthon together](https://festa.io/events/4628) - Idea contest [FINISH | 🏆 Grand Prix] (2024.01.18~2024.01.27) 
 <br>
 
 ## 🌸 Information
