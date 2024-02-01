@@ -28,6 +28,7 @@
 <br>[2nd Edition] (2023.03.16~2023.05.31)
 - Mini project - Recommendation Algorithms (2023.03.23~2023.06.15)
 - [GDSC] 2nd term_Core Member (2023.09.07~)
+- [GPTers] Coinp study - [Best Practices Selection](https://eunjiblog.tistory.com/19) (2023.10.03~2023.10.13) <br>
 - GDSC DAU Headington - [Busan University Plogging Competition App](https://github.com/EunByu1/BalanceTeam?tab=readme-ov-file) <br>
   [FINISH | 🏆 2nd place] (2023.11.06~2023.11.10)
 - Dong-A University DevDay - [AI voice recognition-based communication platform](https://github.com/Ai-Communication-platform) <br>
