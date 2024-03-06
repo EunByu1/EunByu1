@@ -6,7 +6,7 @@
 ## 🌸 Who Am I 
 <p align="left"> 
 
-- I am interested in NLP<br>
+- I am interested in Data Analyst and NLP<br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
  </p><br>  
@@ -71,4 +71,4 @@
 
 
            
-<br>
+<br></br>
