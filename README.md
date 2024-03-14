@@ -12,7 +12,7 @@
  </p><br>  
 
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
+
     
 
  ## 🌸 Education & Project
@@ -21,6 +21,7 @@
 - Dong-A University IT Job Club - Front End Study(2022.07.19~2022.08)
 - Hanium - [AI Environment Robot](https://github.com/EunByu1/Web_Project/tree/main/GreenAI) [FINISH | 🏆 Silver award] (2022.04.12~2022.11.30) <br>
 
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="362">
 
 <br>
 
@@ -46,12 +47,15 @@
 
  
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">
+
 <Br></br>
  
  
 ## 🌸 Skill  
 <b>Tech</b>  
+<!-- Baekjoon -->
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejha2002" width="340">           
+
 &nbsp;&nbsp; : vailable skills & the art one has dealt with<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -60,6 +64,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <br>
+
 
 &nbsp;&nbsp; : vailable tool<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
