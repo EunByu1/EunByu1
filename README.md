@@ -81,5 +81,5 @@
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Dart&logoColor=white"/>
 
-        
-<br>
+
+<br></br>
