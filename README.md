@@ -41,7 +41,7 @@
 - [Corporation: Cast.Era] [Development of real-time subtitle conversion technology for broadcasting contents such as news](https://github.com/SJpark02/AICC-2024_AI-Project) (2024.03.18~)
 - [Industry-academic cooperation R&D] Establishment of Nvidia Isaac Sim digital twin for AMR-based port logistics automation (2024.04.29~)
 - [[Google Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)] 5th Member (2024.07.01~)
-- [[DACON](https://dacon.io/competitions/official/236253/overview/description)] Fake voice detection and detection of generative AI [FINISH | 🏆] (2024.07.01~2024.07.19)
+- [[DACON](https://dacon.io/competitions/official/236253/overview/description)] Fake voice detection and detection of generative AI [FINISH | 🏆 9th Place Corporate Sponsorship Award ] (2024.07.01~2024.08.06)
 <br>
 
 ## 🌸 Information
