@@ -6,7 +6,7 @@
 ## 🌸 Who Am I 
 <p align="left"> 
 
-- I am interested in Reinforcement Learning, Robotics and NLP<br>
+- I am interested in Reinforcement Learning, Robotics<br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledg 🔬
  </p><br>  
