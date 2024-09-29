@@ -46,8 +46,8 @@
 
 ## 🌸 Information
 - github : https://github.com/EunByu1  <Br>
-- blog_2[study] : https://eunjiblog.tistory.com <br>
-- blog_1[curious] : https://velog.io/@yahweh <br>
+- blog_1[study] : https://eunjiblog.tistory.com <br>
+- blog_2[curious] : https://velog.io/@yahweh <br>
 
  
 
