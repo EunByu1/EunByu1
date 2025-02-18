@@ -8,7 +8,7 @@
 
 - I am interested in Reinforcement Learning, Robotics<br>
 - My major is Artificial intelligence<br>
-- I like to examine knowledg 🔬
+- I like to examine knowledge 🔬
  </p><br>  
 
 
