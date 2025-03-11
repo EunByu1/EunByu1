@@ -37,7 +37,7 @@
 <br>
 
 
-- [GDSC] [Solchalthon together](https://festa.io/events/4628) - Idea contest [FINISH | 🏆 Grand Prix] (2024.01.18~2024.01.27)
+- [GDSC] Solchalthon together- [Idea contest](https://eunjiblog.tistory.com/22) [FINISH | 🏆 Grand Prix] (2024.01.18~2024.01.27)
 - [Industry-academic cooperation R&D] [Nvidia Omniverse-Based Digital Twin for Port Logistics Automation](https://eunjiblog.tistory.com/32) (2024.04.29~2024.11.30)
 - [[Google Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)] 5th Member (2024.07.01~2024.10.18)
 - [[DACON](https://dacon.io/competitions/official/236253/overview/description)] [Fake voice detection and detection of generative AI](https://github.com/EunByu1/VoiceWizards_deepfake_detectione) [FINISH | 🏆 9th Place Corporate Sponsorship Award] (2024.07.01~2024.08.06)
