@@ -1,5 +1,5 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunbyul&fontAlign=80&fontAlignY=40&color=gradient" >
-<!-- 출처 : https://github.com/kyechan99/capsule-render --
+<!-- 출처 : https://github.com/kyechan99/capsule-render -->
            
      
               
