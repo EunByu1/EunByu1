@@ -67,6 +67,7 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA Omniverse-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
  <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -82,5 +83,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA Omniverse-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+
 
