@@ -86,5 +86,6 @@
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 
