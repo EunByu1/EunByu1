@@ -42,6 +42,9 @@
 - [[Google Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)] 5th Member (2024.07.01~2024.10.18)
 - [[DACON](https://dacon.io/competitions/official/236253/overview/description)] [Fake voice detection and detection of generative AI](https://github.com/EunByu1/VoiceWizards_deepfake_detectione) [FINISH | 🏆 9th Place Corporate Sponsorship Award] (2024.07.01~2024.08.06)
 - [Construction of an XR Device and an Omniverse‑Based Virtual Environment for Imitation Learning Data Collection] (2024.09.01~2025.01.23)
+<br>
+
+
 - [SSAFY] 14th Embedded Robot Track (2025.07~)
 <br>
 
