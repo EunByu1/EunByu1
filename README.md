@@ -10,7 +10,7 @@
 - My major is Artificial intelligence<br>
 - I like to examine knowledge 🔬
  </p><br>  
-
+ 
 
 
      
