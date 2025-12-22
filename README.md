@@ -6,7 +6,7 @@
 ## 🌸 Who Am I 
 <p align="left"> 
 
-- I am interested in Reinforcement Learning, Motion Generation, Robot Teleoperation(VR/AR)<br>
+- I am interested in Reinforcement Learning, Motion Generation, Robot Control<br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledge 🔬
  </p><br>  
