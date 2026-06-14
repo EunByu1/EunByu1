@@ -45,7 +45,8 @@
 <br>
 
 
-- [[SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)] 14th Embedded Robot Track (2025.07~)
+- [[SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)] 14th Embedded Robot Track (2025.07~2026.06)
+- KITECH (2025.07~)
 <br>
 
 ## 🌸 Information
