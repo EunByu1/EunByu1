@@ -46,7 +46,7 @@
 
 
 - [[SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)] 14th Embedded Robot Track (2025.07~2026.06)
-- [SSAFY] AI Project Competition [VLA and Reinforcement Learning-Based Security Robot System](https://eunjiblog.tistory.com/category/Experience/Robot%20Project%3A%20X-STRIX) [FINISH | 🏆 3rd Place]  (2026.04.06~2026.06.02)
+- [SSAFY] AI Project Competition - [VLA and Reinforcement Learning-Based Security Robot System](https://eunjiblog.tistory.com/category/Experience/Robot%20Project%3A%20X-STRIX) [FINISH | 🏆 3rd Place]  (2026.04.06~2026.06.02)
 - KITECH (2025.07~)
 <br>
 
