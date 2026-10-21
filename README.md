@@ -6,7 +6,7 @@
 ## 🌸 Who Am I 
 <p align="left"> 
 
-- I am interested in Robot Learning, HRI<br>
+- I am interested in Robot Learning<br>
 - My major is Artificial intelligence<br>
 - I like to examine knowledge 🔬
  </p><br>  
